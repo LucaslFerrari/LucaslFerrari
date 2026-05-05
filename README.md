@@ -56,15 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucaslferrari&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslferrari&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
-
----
-
 ## 🧩 Projects
 
 🚧 Currently building high-impact AI and automation solutions.
